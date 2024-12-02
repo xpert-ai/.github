@@ -1,12 +1,10 @@
 # Xpert AI ☄️
 
-**Xpert AI** is an AI agents and data analysis platform for enterprise make business decision.
+**Xpert AI** is an AI agents and data analysis platform for enterprises to make business decisions.
 
-**Here are some ideas to get you started:**
+## About us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We are a team with years of expertise in the ERP system domain, specializing in enterprise data management and decision-making support. Through the Xpert AI platform, we aim to help users enhance their decision-making capabilities and operational efficiency, seizing the opportunities of the AI era to gain a competitive edge.
+
+### Contact us
 
